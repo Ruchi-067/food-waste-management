@@ -1,0 +1,9 @@
+Food_ID,Food_Name,Quantity,Expiry_Date,Provider_ID,Provider_Type,Location,Food_Type,Meal_Type
+1,Fresh Sandwiches,20,2024-01-15,1,Restaurant,New York,Non-Vegetarian,Lunch
+2,Organic Vegetables,15,2024-01-16,2,Grocery Store,Los Angeles,Vegetarian,Dinner
+3,Bakery Items,30,2024-01-14,3,Supermarket,Chicago,Vegetarian,Breakfast
+4,Cooked Rice,25,2024-01-15,4,Restaurant,Houston,Vegetarian,Lunch
+5,Fresh Fruits,40,2024-01-17,5,Grocery Store,Phoenix,Vegan,Snacks
+6,Pasta Meals,18,2024-01-16,1,Restaurant,New York,Vegetarian,Dinner
+7,Dairy Products,12,2024-01-15,2,Grocery Store,Los Angeles,Vegetarian,Breakfast
+8,Snack Items,35,2024-01-18,3,Supermarket,Chicago,Mixed,Snacks
